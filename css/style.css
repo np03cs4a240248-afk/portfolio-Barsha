@@ -1,0 +1,16 @@
+* {
+	background-color: cornsilk;
+	margin: 0px;
+	padding: 0px;
+	font: sans-serif;
+}
+
+#head {
+	text-align: center;
+	background-color: lightcoral;
+	padding: 15px;
+}
+
+nav {
+	text-align: center;
+}
