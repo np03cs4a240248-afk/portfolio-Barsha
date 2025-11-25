@@ -60,7 +60,7 @@ section img {
     width: 100%;
     max-width: 300px;
     height: 160px;
-    background: lightbox;   /* light box */
+    background: lightbox;   
     border-radius: 6px;
     margin: 10px 0;
 }
